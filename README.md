@@ -1,6 +1,9 @@
 🕹️ Hangman Game – CodeAlpha Internship Task 1
+
 👩‍💻 Created by: Sumbal Murtaza
+
 📌 Task Overview
+
 This repository contains a text-based Hangman Game, developed as Task 1 for the CodeAlpha Internship program.
 
 🎯 Goal
